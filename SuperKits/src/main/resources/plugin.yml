@@ -1,0 +1,8 @@
+name: SuperKits
+version: '${project.version}'
+main: me.smodev.superkits.SuperKits
+api-version: 1.19
+commands:
+  kits:
+
+  editkits:

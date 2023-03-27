@@ -1,0 +1,7 @@
+me\smodev\superkits\listeners\KitsListeners.class
+me\smodev\superkits\commands\KitsCommand.class
+me\smodev\superkits\SuperKits.class
+me\smodev\superkits\utils\Format.class
+me\smodev\superkits\utils\kits\EditKits.class
+me\smodev\superkits\commands\EditKitsCMD.class
+me\smodev\superkits\commands\AbstractCommand.class

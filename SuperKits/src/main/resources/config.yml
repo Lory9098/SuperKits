@@ -1,0 +1,48 @@
+# https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/enchantments/Enchantment.html
+
+kits:
+  kits-title: '&bKits disponibili'
+
+  auto-armorEquip: true
+
+  content:
+    0:
+      name: 'Default'
+      rescued: '&bHai riscattato il kit Default'
+      item: 'DIAMOND_SWORD'
+      default: true
+      sound:
+        name:
+        volume:
+        pitch:
+      slot: 20
+      items:
+        DIAMOND_SWORD:
+          slot: 0
+          ench:
+            - "DAMAGE_ALL;2"
+            - "DURABILITY;2"
+        DIAMOND_HELMET:
+          slot: 0
+          ench:
+            - "DAMAGE_ALL;2"
+            - "DURABILITY;2"
+        DIAMOND_CHESTPLATE:
+          slot: 0
+          ench:
+            - "DAMAGE_ALL;2"
+            - "DURABILITY;2"
+        DIAMOND_LEGGINGS:
+          slot: 0
+          ench:
+            - "DAMAGE_ALL;2"
+            - "DURABILITY;2"
+        DIAMOND_BOOTS:
+          slot: 0
+          ench:
+            - "DAMAGE_ALL;2"
+            - "DURABILITY;2"
+
+message:
+  no-perms: "&4Non hai il permesso per eseguire questo comando"
+  console: "&4Questo comando può essere eseguito solo dalla console"
